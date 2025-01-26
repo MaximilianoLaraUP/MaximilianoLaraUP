@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, GitHub!
+- I'm Maximiliano Lara.
+- I'm interested in Data Science and Artificial Intelligence.
+- 🌱 I’m currently learning Data Science and want to gain more experience on that field.
+- I'm so excited to be part of the awesome GitHub Community!
